@@ -1,0 +1,87 @@
+body {
+  margin: 0;
+  background-color: #7979FF;
+}
+
+#app {
+  font-weight: normal;
+}
+
+a,
+.green {
+  text-decoration: none;
+  color: #5C5CFF;
+  transition: 0.4s;
+  padding: 3px;
+}
+
+.card {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  width: 28em;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  background-color: #ffffff;
+  border-radius: 15px;
+  box-shadow: 10px 15px 5px rgba(0, 0, 0, 0.25);
+}
+
+h3 {
+  text-decoration: underline;
+  color: #5C5CFF;
+  font-size: 1.8rem;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+}
+
+.form input {
+  display: flex;
+  width: 22em;
+  padding: .8rem;
+  margin-bottom: 1rem;
+  border-radius: 12px;
+  border: 1px solid #6D6D6D;
+}
+
+.form label {
+  color: #3c3c3c;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin-bottom: 0.2rem;
+}
+
+.form p {
+  margin: .4rem;
+  color: #5C5CFF;
+  cursor: pointer;
+}
+
+span.txt {
+  margin: .4rem auto;
+}
+
+.btn-login {
+  display: flex;
+  justify-content: center;
+  justify-items: center;
+  border-radius: 12px;
+  width: 30%;
+  margin: 1rem auto;
+  padding: .4rem;
+  border: none;
+  background-color: #69C9AC;
+  color: #fff;
+  cursor: pointer;
+  font-size: 1rem;
+  font-weight: 500;
+}
+
+.btn-login:hover {
+  background-color: #58ab94;
+}
