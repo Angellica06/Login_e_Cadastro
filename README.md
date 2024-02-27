@@ -13,7 +13,9 @@ Link do projeto: https://techinnovate.netlify.app/
 
 
 
-![Captura de tela 2024-02-27 171235](https://github.com/Angellica06/Login_e_Cadastro/assets/104512282/ad895651-a69c-4935-b879-b9f32e132bf8)
+![Captura de tela 2024-02-27 183236](https://github.com/Angellica06/Login_e_Cadastro/assets/104512282/310dd5dd-bda6-4b2b-a5c8-1d47dfcc81d3)
+
+
 
 
 ![Captura de tela 2024-02-27 182158](https://github.com/Angellica06/Login_e_Cadastro/assets/104512282/dde5a7b2-4d0b-46ec-a846-9eedc02d79b2)
