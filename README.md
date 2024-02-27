@@ -5,6 +5,10 @@ do design foi feito utilizando o figma.
 
 
 Link do protótipo no figma: https://www.figma.com/file/3EmgvUfSSK3dyCBRHKwAvb/Untitled?type=design&node-id=0%3A1&mode=design&t=uZqBQ8ovGcp54czF-1
+
+
+
+
 Link do projeto: https://techinnovate.netlify.app/
 
 
